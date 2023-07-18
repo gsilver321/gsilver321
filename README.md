@@ -7,8 +7,9 @@ More facts about me:
 - 🔭 I participate in Hackathons @ UVA
 - 🌱 I like finding ways to use cs to tackle complex challenges 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gsilver321&show_icons=true&theme=github_dark)]
 <!--
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gsilver321&show_icons=true&theme=github_dark)]
+
 **gsilver321/gsilver321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
